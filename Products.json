@@ -1,0 +1,168 @@
+{
+"featuredProducts": [
+{
+        "image": "img/Product1.webp",
+        "small-img":{ "image.1": "img/Product1.webp","image.2":"img/Product1.2.webp","image.3":"img/Product1.3.webp","image.4":"img/Product1.4.webp" },
+        "brand": "sebi",
+        "name": "Zipper Jacket",
+        "description": "Winter's Collection - New Modern Design Zipper Jacket",
+        "rating": 4.5,
+        "price": 2800,
+        "originalPrice": 9333
+},
+{
+        "image": "img/Product2.webp",
+        "small-img":{ "image.1": "img/Product2.webp","image.2":"img/Product2.2.webp","image.3":"img/Product2.3.webp","image.4":"img/Product2.4.webp" },
+        "brand": "sebi",
+        "name": "Pullover Jacket",
+        "description": "Winter's Collection - New Modern Design Pullover Jacket",
+        "rating": 5,
+        "price": 2800,
+        "originalPrice": 9333
+},
+{
+        "image": "img/Product3.webp",
+        "small-img":{ "image.1": "","image.2":"","image.3":"","image.4":"" },
+        "brand": "sebi",
+        "name": "Black Mock Neck Zipper Jacket | Tracksuit",
+        "description": "Summer Collection - Stylish Batman Black Hoodie",
+        "rating": 4.5,
+        "price": 2800,
+        "originalPrice": 9333
+},
+{
+        "image": "img/Product4.webp",
+        "small-img":{ "image.1": "","image.2":"","image.3":"","image.4":"" },
+        "brand": "sebi",
+        "name": "Black Zipper Sweatshirt | Tracksuit",
+        "description": "Summer Collection - Stylish Forgive White Hoodie",
+        "rating": 5,
+        "price": 2800,
+        "originalPrice": 9333
+},
+{
+        "image": "img/Product13.webp",
+        "small-img":{ "image.1": "","image.2":"","image.3":"","image.4":"" },
+        "brand": "sebi",
+        "name": "Black White Panal Trouser",
+        "description": "QuickDry Collection - Stylish Yellow Jacket",
+        "rating": 5,
+        "price": 2800,
+        "originalPrice": 9333
+},
+{
+        "image": "img/Product14.webp",
+        "small-img":{ "image.1": "","image.2":"","image.3":"","image.4":"" },
+        "brand": "sebi",
+        "name": "6 Pocket Cargo Trouser Khaki",
+        "description": "Winter's Collection - AirTech White Hoodie",
+        "rating": 5,
+        "price": 2800,
+        "originalPrice": 9333
+},
+{
+        "image": "img/Product15.webp",
+        "small-img":{ "image.1": "","image.2":"","image.3":"","image.4":"" },
+        "brand": "sebi",
+        "name": "Lightinging Trouser",
+        "description": "Spring Collection - Drip Green Sweatshirt",
+        "rating": 4.5,
+        "price": 2800,
+        "originalPrice": 9333
+},
+{
+        "image": "img/Product16.webp",
+        "small-img":{ "image.1": "","image.2":"","image.3":"","image.4":"" },
+        "brand": "sebi",
+        "name": "6 Pocket Cargo Trouser Olive",
+        "description": "Urban Style Collection - Black Jacket",
+        "rating": 4.5,
+        "price": 2800,
+        "originalPrice": 9333
+}
+],
+      
+"newArrivals": [
+{
+        "image": "img/Product5.webp",
+        "small-img":{ "image.1": "","image.2":"","image.3":"","image.4":"" },
+        "brand": "sebi",
+        "name": "Batman Black QuickDry Hoodie",
+        "description": "Summer Collection - Stylish Green Zipper Jacket",
+        "rating": 4.5,
+        "price": 2800,
+        "originalPrice": 9333
+},
+{
+        "image": "img/Product6.webp",
+        "small-img":{ "image.1": "","image.2":"","image.3":"","image.4":"" },
+        "brand": "sebi",
+        "name": "Forgive White Hoodie",
+        "description": "Winter Collection - Modern Pullover Brown Hoodie",
+        "rating": 5,
+        "price": 2800,
+        "originalPrice": 9333
+},
+{
+        "image": "img/Product7.webp",
+        "small-img":{ "image.1": "","image.2":"","image.3":"","image.4":"" },
+        "brand": "sebi",
+        "name": "Naruto Itachi Black Hoodie",
+        "description": "QuickDry Batman Grey Hoodie for Summer",
+        "rating": 4.5,
+        "price": 2800,
+        "originalPrice": 9333
+},
+{
+        "image": "img/Product8.webp",
+        "small-img":{ "image.1": "","image.2":"","image.3":"","image.4":"" },
+        "brand": "sebi",
+        "name": "DBZ White Hoodie",
+        "description": "QuickDry Forgive Black Hoodie for Summer",
+        "rating": 5,
+        "price": 2800,
+        "originalPrice": 9333
+},
+{
+        "image": "img/Product9.webp",
+        "small-img":{ "image.1": "","image.2":"","image.3":"","image.4":"" },
+        "brand": "sebi",
+        "name": "Batman 2.0 Black QuickDry Hoodie",
+        "description": "Winter Collection - Grey Jacket",
+        "rating": 4.5,
+        "price": 2800,
+        "originalPrice": 9333
+},
+{
+        "image": "img/Product10.png",
+        "small-img":{ "image.1": "","image.2":"","image.3":"","image.4":"" },
+        "brand": "sebi",
+        "name": "Naruto Oversized Hoodie",
+        "description": "Summer Collection - Yellow QuickDry Pullover",
+        "rating": 5,
+        "price": 2800,
+        "originalPrice": 9333
+},
+{
+        "image": "img/Product11.webp",
+        "small-img":{ "image.1": "","image.2":"","image.3":"","image.4":"" },
+        "brand": "sebi",
+        "name": "Fire Skull Black Hoodie",
+        "description": "Winter's Collection - AirTech Grey Hoodie",
+        "rating": 4.5,
+        "price": 2800,
+        "originalPrice": 9333
+},
+{
+        "image": "img/Product12.webp",
+        "small-img":{ "image.1": "","image.2":"","image.3":"","image.4":"" },
+        "brand": "sebi",
+        "name": "Dollar Black Hoodie",
+        "description": "Spring Collection - Drip Red Sweatshirt",
+        "rating": 4.0,
+        "price": 2800,
+        "originalPrice": 9333
+}
+]
+}
+      

@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/png" href="img/tablogo.png">
+    <title>sebi</title>
+    <link rel="stylesheet" href="sebi.css">
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css">
+    <link href="https://fonts.googleapis.com/css2?family=League+Spartan:wght@400&display=swap" rel="stylesheet">
+</head>
+<body>
+    <section id="header">
+        <a href="#"><img src="img/sebi.png" ></a>
+        <div>
+            <ul id="navbar">
+                <li><a href="sebi.html">Home</a></li>
+                <li><a href="shop.html">Shop</a></li>
+                <li><a href="blog.html">Blog</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="contact.html">Contact</a></li>
+                <a href="#" id="close" ><i class="far fa-times"></i></a>
+            </ul>
+        </div>
+        <div>
+            <ul id="sideicons">
+        <li><a id="lg-bag" href="cart.html"><i class="far fa-shopping-bag"></i></a></li>
+        <li><a class="active" href="#"><i class="fas fa-user"></i></a></li>
+        <div id="cart-count">0</div>
+    </ul>
+        </div>
+        <div id="hide">
+            <div id="mobile">
+            <a class="active" href="loginpg.html"><i class="fas fa-user"></i></a>
+            <a href="cart.html"><i class="far fa-shopping-bag"></i></a>
+            <i id="bar" class="fas fa-outdent set" ></i>
+        </div>
+        <div id="cart-count2">0</div>
+        </div> 
+    </section>
+    <section id="loginpg">
+        <div class="wrapper">
+          <h1>Login</h1>
+          <div class="marg"><p id="error-message"></p></div>
+          <form id="form">
+            <div class="mainform">
+              <label for="email-input">
+                <span>@</span>
+              </label>
+              <input type="email" name="email" id="email-input" placeholder="Email">
+            </div>
+            <div>
+              <label for="password-input">
+               <i class="fas fa-lock" height="20"  width="20"></i>
+              </label>
+              <input type="password" name="password" id="password-input" placeholder="Password">
+            </div>
+            <button type="submit">Login</button>
+          </form>
+          <div class="color">
+          <p>New here? <a href="signup.html">Create an Account</a></p>
+        </div>
+        </div>
+      </section>
+    <section id="newsletter" class="section-p1 section-m1">
+        <div id="newstext">
+            <h4>Sign Up For Newsletters</h4>
+            <p>Get E-mail updates about our latest shop & <span>special offers.</span></p>
+        </div>
+        <div id="form">
+            <input type="text" placeholder="Your email address">
+            <button class="normal" >Sign Up</button>
+        </div>
+    </section>
+    <footer class="section-p1">
+    
+        <div class="col">
+            <img  class="logo" src="img/sebi.png" >
+            <h4>Contact</h4>
+            <p><strong>Address:</strong>Memon Muhalla Rohri, Sukkur, Pakistan</p>
+            <p><strong>Phone:</strong>+92 3052285586 / +92 3163744340</p>
+            <p><strong>E-mail:</strong>sa789935109@gmail.com</p>
+            <p><strong>Hours:</strong>10:00 AM - 2:00AM, Mon - Sun</p>
+            <div class="follow">
+                <h4>Follow Us</h4>
+                <div class="icon">
+                   <a href="#"> <i class="fab fa-facebook-f"></i></a>
+                   <a href="#"> <i class="fab fa-twitter"></i></a>
+                   <a href="#"> <i class="fab fa-instagram"></i></a>
+                   <a href="#"> <i class="fab fa-pinterest-p"></i></a>
+                   <a href="#"> <i class="fab fa-youtube"></i></a>
+                </div>
+            </div>
+        </div>
+    
+        </div>
+        <div class="col">
+            <h4>About</h4>
+            <a href="about.html">About Us</a>
+            <a href="#">Delivery Information</a>
+            <a href="#">Privacy Policy</a>
+            <a href="#">Terms & Conditions</a>
+            <a href="contact.html">Contact Us</a>
+        </div>
+        <div class="col">
+            <h4>My Account</h4>
+            <a href="signup.html">Sign In</a>
+            <a href="cart.html">View Cart</a>
+            <a href="#">My Wishlist</a>
+            <a href="#">Track My Order</a>
+            <a href="#">Help </a>
+        </div>
+        <div class="col install">
+            <p>Secured Payment Gateways</p>
+            <img src="img/pay.png">
+        </div>
+        <div class="copyright">
+            <p>@ 2025, sebi | All Rights Reserved</p>
+        </div>
+    </footer>
+    <script src="utility.js"></script>
+    <script src="loginsignup.js"></script>
+    </body>
